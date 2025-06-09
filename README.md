@@ -7,7 +7,7 @@ Este repositorio contiene una colección de 10 ejercicios prácticos de JavaScri
 Para obtener una copia local del repositorio, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-git clone https://github.com/tu-usuario/ejercicios-js-1-1.git
+git clone https://github.com/Cesar0902/ejercicios-js-1-1.git
 ```
 
 Luego navega al directorio del proyecto:
